@@ -1,5 +1,5 @@
 # events-app-internal
-
+test
 …or create a new repository on the command line
 echo "# events-app-external" >> README.md
 git init
